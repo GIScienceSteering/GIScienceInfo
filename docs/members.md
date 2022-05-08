@@ -1,1 +1,6 @@
-#### GIScience Steering Committee Members
+---
+layout: default
+title: GIScience Steering Committee
+---
+
+## GIScience Steering Committee Members
