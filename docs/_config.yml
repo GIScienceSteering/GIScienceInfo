@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 site.title: 'GIScience Steering Committee'
+github:
+  is_project_page: false
