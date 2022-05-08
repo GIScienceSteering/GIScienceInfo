@@ -3,7 +3,7 @@ layout: default
 title: GIScience Steering Committee
 ---
 
-### Role
+## Role
 The GIScience Steering Committee’s (GSC) role is: 
 
 - To give long term strategic direction to the GIScience conference series, paying attention to the scientific quality, diversity and health of the conference series
