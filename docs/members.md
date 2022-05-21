@@ -18,5 +18,4 @@ title: GIScience Steering Committee
 **Ross Purves** (Co-chair)	University of Zurich, Switzerland  
 **Sara Fabrikant**	University of Zurich, Switzerland  
 **Scott Bell**	University of Saskatchewan, Canada  
-**Stephan Winter**	University of Melbourne, Australia  
-**Tom Cova**	University of Utah, USA  
+**Stephan Winter**	University of Melbourne, Australia
