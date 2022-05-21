@@ -13,7 +13,7 @@ title: GIScience Steering Committee
 **Martin Raubal**	ETH, Switzerland  
 **Monika Sester**	Leibnitz University Hannover, Germany  
 **Ningchuan Xiao**	Ohio State University, USA  
-**Piot Jankowkski**	San Diego State University, USA  
+**Piotr Jankowski**	San Diego State University, USA  
 **Renee Sieber** (Co-chair)	McGill University, Canada  
 **Ross Purves** (Co-chair)	University of Zurich, Switzerland  
 **Sara Fabrikant**	University of Zurich, Switzerland  
