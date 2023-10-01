@@ -2,7 +2,7 @@
 layout: default
 title: GIScience Steering Committee
 ---
-Role(role.html) Membership [Activities](activities.html)
+[Role](role.html) **Membership** [Activities](activities.html)
 
 ## Activities
 ### Bids for GIScience 2025 
