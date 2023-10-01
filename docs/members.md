@@ -2,6 +2,7 @@
 layout: default
 title: GIScience Steering Committee
 ---
+Role(role.html) Membership [Activities](activities.html)
 
 ## Members
 **Edzer Pebesma**	University of Munster, Germany  
