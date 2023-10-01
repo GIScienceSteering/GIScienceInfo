@@ -2,6 +2,7 @@
 layout: default
 title: GIScience Steering Committee
 ---
+[Home](index.html) **Role** [Membership](members.html) [Activities](activities.html)
 
 ## Role
 The GIScience Steering Committee’s (GSC) role is: 
