@@ -8,7 +8,7 @@ title: GIScience Steering Committee
 **Edzer Pebesma**	University of Munster, Germany  
 **Harvey Miller**	Ohio State University, USA  
 **Jennifer Miller**	UT Austin, USA  
-**Judith Verstegen**	Wageningen University, Netherlands  
+**Judith Verstegen**	Utrecht University, Netherlands  
 **Kathleen Stewart**	University of Maryland, USA  
 **Krzysztof Janowicz** 	UC Santa Barbara, USA  
 **Martin Raubal**	ETH, Switzerland  
