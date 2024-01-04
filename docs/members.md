@@ -20,6 +20,6 @@ title: GIScience Steering Committee
 **Kathleen Stewart**	University of Maryland, USA  
 **Judith Verstegen**	Utrecht University, Netherlands  
 **Lubia Vinhas** National Institute for Space Research, Brazil
-**Stephan Winter**	University of Melbourne, Australia
+**Stephan Winter**	University of Melbourne, Australia  
 **Ningchuan Xiao**	Ohio State University, USA  
 **Qunshan Zhao** University of Glasgow, UK
