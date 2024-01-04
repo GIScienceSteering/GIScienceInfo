@@ -9,7 +9,7 @@ title: GIScience Steering Committee
 **Sara Fabrikant**	University of Zurich, Switzerland  
 **Piotr Jankowski**	San Diego State University, USA  
 **Krzysztof Janowicz** 	University of Vienna, Austria; UC Santa Barbara, USA  
-**Jed Long** Western University, Canada
+**Jed Long** Western University, Canada 
 **Harvey Miller**	Ohio State University, USA  
 **Jennifer Miller**	UT Austin, USA  
 **Edzer Pebesma**	University of Munster, Germany  
@@ -19,7 +19,7 @@ title: GIScience Steering Committee
 **Renee Sieber** (Co-chair)	McGill University, Canada  
 **Kathleen Stewart**	University of Maryland, USA  
 **Judith Verstegen**	Utrecht University, Netherlands  
-**Lubia Vinhas** National Institute for Space Research, Brazil
+**Lubia Vinhas** National Institute for Space Research, Brazil  
 **Stephan Winter**	University of Melbourne, Australia  
 **Ningchuan Xiao**	Ohio State University, USA  
-**Qunshan Zhao** University of Glasgow, UK
+**Qunshan Zhao** University of Glasgow, UK 
