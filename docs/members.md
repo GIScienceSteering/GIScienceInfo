@@ -9,7 +9,7 @@ title: GIScience Steering Committee
 **Sara Fabrikant**	University of Zurich, Switzerland  
 **Piotr Jankowski**	San Diego State University, USA  
 **Krzysztof Janowicz** 	University of Vienna, Austria; UC Santa Barbara, USA  
-**Jed Long** Western University, Canada 
+**Jed Long** Western University, Canada  
 **Harvey Miller**	Ohio State University, USA  
 **Jennifer Miller**	UT Austin, USA  
 **Edzer Pebesma**	University of Munster, Germany  
