@@ -5,6 +5,7 @@ title: GIScience Steering Committee
 [Home](index.html) [Role](role.html) **Membership** [Activities](activities.html)
 
 ## Members
+**Clio Andris** Georgia Tech, USA  
 **Scott Bell**	University of Saskatchewan, Canada  
 **Sara Fabrikant**	University of Zurich, Switzerland  
 **Piotr Jankowski**	San Diego State University, USA  
