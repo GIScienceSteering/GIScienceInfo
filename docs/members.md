@@ -5,12 +5,12 @@ title: GIScience Steering Committee
 [Home](index.html) [Role](role.html) **Membership** [Activities](activities.html)
 
 ## Members
-**Benjamin Adams** University of Canterbury, New Zealand
+**Benjamin Adams** University of Canterbury, New Zealand  
 **Clio Andris** Georgia Tech, USA  
 **Scott Bell**	University of Saskatchewan, Canada  
-**Vanessa Brum-Bastos** University of Canterbury, New Zealand
+**Vanessa Brum-Bastos** University of Canterbury, New Zealand  
 **Sara Fabrikant**	University of Zurich, Switzerland  
-**Mark Gahegan** University of Auckland, New Zealand
+**Mark Gahegan** University of Auckland, New Zealand  
 **Piotr Jankowski**	San Diego State University, USA  
 **Krzysztof Janowicz** 	University of Vienna, Austria; UC Santa Barbara, USA  
 **Jed Long** Western University, Canada  
